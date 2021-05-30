@@ -3,15 +3,21 @@ export type RootStackParamList = {
   NotFound: undefined;
 };
 
-export type BottomTabParamList = {
-  TabOne: undefined;
-  TabTwo: undefined;
-};
+export type PageParamList = {
+  Home: undefined;
+  CreateTask: undefined;
+  UpdateTask: any;
+}
 
-export type TabOneParamList = {
-  TabOneScreen: undefined;
-};
+// export type HomeParamList = {
+//   HomeScreen: undefined;
+// };
 
-export type TabTwoParamList = {
-  TabTwoScreen: undefined;
-};
+// export type CreateTaskParamList = {
+//   CreateTaskScreen: undefined;
+// }
+
+// export type UpdateTaskParamList = {
+//   UpdateTaskScreen: undefined;
+// }
+
