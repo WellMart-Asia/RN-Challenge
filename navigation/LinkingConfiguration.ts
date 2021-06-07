@@ -13,7 +13,12 @@ export default {
           },
           TabTwo: {
             screens: {
-              TabTwoScreen: 'two',
+              TabTwoScreen: 'twos',
+            },
+          },
+          TabLogin: {
+            screens: {
+              TabLoginScreen: 'login',
             },
           },
         },

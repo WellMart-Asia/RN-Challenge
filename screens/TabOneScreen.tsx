@@ -4,6 +4,8 @@ import { StyleSheet } from 'react-native';
 import EditScreenInfo from '../components/EditScreenInfo';
 import { Text, View } from '../components/Themed';
 
+const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 
+                    'December']
 export default function TabOneScreen() {
   return (
     <View style={styles.container}>
