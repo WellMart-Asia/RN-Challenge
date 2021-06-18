@@ -63,4 +63,7 @@ Your app should be able to complete these tasks:
 - Somehow make this boring app fun! show some crazy pokemon animation or something :P
 
 ## How to run the demo
-(REPLACE THIS WITH YOUR INSTRUCTIONS)
+1. First you just need to type your to-do in the textbox.
+2. then to submit your to-do simply just click the "Add todo" button beside the textbox
+3. if your to-do list is complete, simply click the to-do list that you just complete to mark it as completed.
+4. you can edit and delete the to-do list by using the button on the right of your to-do list to edit and delete the to-do list.
