@@ -63,4 +63,17 @@ Your app should be able to complete these tasks:
 - Somehow make this boring app fun! show some crazy pokemon animation or something :P
 
 ## How to run the demo
-(REPLACE THIS WITH YOUR INSTRUCTIONS)
+- To add a new to-do task:
+    1. Enter the task name into the gray box at the bottom of the screen (exactly on the top of bottom tab navigator)
+    2. Press the blue plus (+) button to add the new task
+- To mark a to-do task as a completed task:
+    1. Press the empty circle on the left side of the task name
+    2. The empty circle will be changed as a checked circle if the task successfully marked as completed
+- To show to-do task only:
+    1. Press the "To-do" tab
+- To show completed task only:
+    1. Press the "Completed" tab
+- To show all task:
+    1. Press the "All" tab
+- To search a task by its name"
+    1. Enter the task name to be searched into the input section on the right side of the search icon (no need to press enter)
